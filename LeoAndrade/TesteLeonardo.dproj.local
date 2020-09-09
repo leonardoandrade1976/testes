@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/07/01 13:16:29.000.899,=C:\Users\leonardo.andrade\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/09 07:07:38.000.381,=C:\Users\leonardo.andrade\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/09 07:17:44.000.047,C:\Users\leonardo.andrade\Desktop\InfoSistemas\UClientesForm.pas=C:\Users\leonardo.andrade\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/09 07:17:44.000.047,C:\Users\leonardo.andrade\Desktop\InfoSistemas\UClientesForm.dfm=C:\Users\leonardo.andrade\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/09/09 07:22:26.000.077,=C:\Users\leonardo.andrade\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/09 07:22:43.000.486,C:\Users\leonardo.andrade\Desktop\InfoSistemas\uViaCEP.pas=C:\Users\leonardo.andrade\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/09 07:46:04.000.768,C:\Users\leonardo.andrade\Desktop\InfoSistemas\TesteLeonardo.dproj=C:\Users\leonardo.andrade\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/09/09 08:30:18.000.442,=C:\Users\leonardo.andrade\Desktop\LeoAndrade\Unit1.pas</Transaction>
+    <Transaction>2020/09/09 08:38:47.000.982,C:\Users\leonardo.andrade\Desktop\LeoAndrade\uViaCEP.pas=</Transaction>
+    <Transaction>2020/09/09 08:39:20.000.325,C:\Users\leonardo.andrade\Desktop\LeoAndrade\Unit1.pas=C:\Users\leonardo.andrade\Desktop\LeoAndrade\UDMViaCep.pas</Transaction>
+    <Transaction>2020/09/09 08:39:20.000.325,C:\Users\leonardo.andrade\Desktop\LeoAndrade\Unit1.dfm=C:\Users\leonardo.andrade\Desktop\LeoAndrade\UDMViaCep.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
